@@ -106,6 +106,5 @@ dist
 # next.js build output
 .next
 
-/build
 
 ADDRESS.txt
